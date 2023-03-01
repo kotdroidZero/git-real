@@ -1,0 +1,1 @@
+Admin Auth feature added in the admin module 
